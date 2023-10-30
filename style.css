@@ -93,7 +93,6 @@ img{
     .layout{
         display: flex;
         flex-direction: column;
-        flex-wrap: wrap;
     }
     .layout1 {
         width: 100%;
